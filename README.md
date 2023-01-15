@@ -25,22 +25,22 @@
 <tr>
 <td valign="top"  width="58%">
   
-  [![Badspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider7)](https://github.com/anuraghazra/github-readme-stats)
+ ![Badspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider7&hide=contribs,prs)
   
   <br>
 
 #### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-![Badspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider7&hide=contribs,prs)
+
 
 </td>
-<td valign="top"  width="42%">
+<!-- <td valign="top"  width="42%">
   
-  ![Badspider's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badspider7&layout=compact&hide_border=true&langs_count=10)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-</td>
+</td> -->
 </tr>
 </table>
