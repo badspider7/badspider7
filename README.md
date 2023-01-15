@@ -1,21 +1,16 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m An Zhihe
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m Badspider.
 
-![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anzhihe.anzhihe&left_color=gray&right_color=blue)
 
 <table>
 <tr>
 <td width="58%">
   
-- 🤖 I’m currently a SRE working in Beijing, China.
-- 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
-- ✍️ [MyBlog](https://chegva.com)
+- 🤖 I’m a Senior in Jiangxi, China.
+- 👨‍💻 I’m currently learning Python，JS 、express、koa、Vue、React，etc...
+- ✍️ [MyBlog](https://badspider.top)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
-**「Stay hungry，Stay foolish.」** ❤️
+**「秋风清，秋月明，落叶聚还散，寒鸦栖复惊.」** ❤️
 
 </td>
 <td width="42%">
@@ -41,7 +36,7 @@
 </td>
 <td valign="top"  width="42%">
   
-  ![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badspider7&layout=compact&hide_border=true&langs_count=10)
+  ![Badspider's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badspider7&layout=compact&hide_border=true&langs_count=10)
 
 
 
