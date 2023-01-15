@@ -25,13 +25,14 @@
 <tr>
 <td valign="top"  width="58%">
   
-  ![](https://github-readme-stats.vercel.app/api?username=badspider7)
+  [![Badspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider7)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
 
 #### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
+![Badspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=badspider7&hide=contribs,prs)
 
 </td>
 <td valign="top"  width="42%">
